@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autor>
+    <nombre>JRR</nombre>
+    <apellidos>Tolkien</apellidos>
+    <fechaNacimiento>1892.01.03</fechaNacimiento>
+    <libros>
+        <libro>
+            <titulo>El Señor de los Anillos</titulo>
+            <precio>20.50</precio>
+            <editorial>
+                <nombre>Ediciones Minotauro</nombre>
+                <direccion>Av. Diagonal, 662</direccion>
+            </editorial>
+        </libro>
+        <libro>
+            <titulo>El Hobbit</titulo>
+            <precio>20.50</precio>
+            <editorial>
+                <nombre>Grupo Planeta</nombre>
+                <direccion>Cl. Juan Ignacio Luca de Tena, 17</direccion>
+            </editorial>
+        </libro>
+        <libro>
+            <titulo>El Silmarilion</titulo>
+            <precio>20.50</precio>
+            <editorial>
+                <nombre>Ediciones Minotauro</nombre>
+                <direccion>Av. Diagonal, 662</direccion>
+            </editorial>
+        </libro>
+    </libros>
+</autor>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<editorial>
+    <nombre>Ediciones Minotauro</nombre>
+    <direccion>Av. Diagonal, 662</direccion>
+    <libros>
+        <libro>
+            <titulo>El Señor de los Anillos</titulo>
+            <precio>20.50</precio>
+            <autor>
+                <nombre>JRR</nombre>
+                <apellidos>Tolkien</apellidos>
+                <fechaNacimiento>1892.01.03</fechaNacimiento>
+            </autor>
+        </libro>
+        <libro>
+            <titulo>El Silmarilion</titulo>
+            <precio>20.50</precio>
+            <autor>
+                <nombre>JRR</nombre>
+                <apellidos>Tolkien</apellidos>
+                <fechaNacimiento>1892.01.03</fechaNacimiento>
+            </autor>
+        </libro>
+        <libro>
+            <titulo>Cementerio de Animales</titulo>
+            <precio>19.95</precio>
+            <autor>
+                <nombre>Stephen</nombre>
+                <apellidos>King</apellidos>
+                <fechaNacimiento>1947.09.21</fechaNacimiento>
+            </autor>
+        </libro>
+        <libro>
+            <titulo>Los Mil Orcos</titulo>
+            <precio>30.50</precio>
+            <autor>
+                <nombre>Robert Anthony</nombre>
+                <apellidos>Salvatore</apellidos>
+                <fechaNacimiento>1959.01.20</fechaNacimiento>
+            </autor>
+        </libro>
+    </libros>
+</editorial>

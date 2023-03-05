@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autor>
+    <nombre>Stephen</nombre>
+    <apellidos>King</apellidos>
+    <fechaNacimiento>1947.09.21</fechaNacimiento>
+    <libros>
+        <libro>
+            <titulo>Misery</titulo>
+            <precio>19.95</precio>
+            <editorial>
+                <nombre>Grupo Planeta</nombre>
+                <direccion>Cl. Juan Ignacio Luca de Tena, 17</direccion>
+            </editorial>
+        </libro>
+        <libro>
+            <titulo>Cementerio de Animales</titulo>
+            <precio>19.95</precio>
+            <editorial>
+                <nombre>Ediciones Minotauro</nombre>
+                <direccion>Av. Diagonal, 662</direccion>
+            </editorial>
+        </libro>
+        <libro>
+            <titulo>El Resplandor</titulo>
+            <precio>19.95</precio>
+            <editorial>
+                <nombre>Grupo Planeta</nombre>
+                <direccion>Cl. Juan Ignacio Luca de Tena, 17</direccion>
+            </editorial>
+        </libro>
+    </libros>
+</autor>

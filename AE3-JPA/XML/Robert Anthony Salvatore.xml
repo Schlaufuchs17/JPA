@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autor>
+    <nombre>Robert Anthony</nombre>
+    <apellidos>Salvatore</apellidos>
+    <fechaNacimiento>1959.01.20</fechaNacimiento>
+    <libros>
+        <libro>
+            <titulo>Los Mil Orcos</titulo>
+            <precio>30.50</precio>
+            <editorial>
+                <nombre>Ediciones Minotauro</nombre>
+                <direccion>Av. Diagonal, 662</direccion>
+            </editorial>
+        </libro>
+        <libro>
+            <titulo>La Promesa del Rey Brujo</titulo>
+            <precio>30.50</precio>
+            <editorial>
+                <nombre>Grupo Planeta</nombre>
+                <direccion>Cl. Juan Ignacio Luca de Tena, 17</direccion>
+            </editorial>
+        </libro>
+    </libros>
+</autor>
